@@ -21,4 +21,5 @@ p {
     height: auto;
     display: block;
     margin: 20px auto;
+    border: 10px solid aquamarine;
 }
