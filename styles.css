@@ -1,0 +1,24 @@
+.negrita{
+    font-weight: bold;
+}
+
+.pasatiempos {
+    color: blue;
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+p {
+    font-weight: 100;
+    font-size: 1.2em;
+    color: #333;
+    line-height: 1.5;
+}
+
+.imagen{
+    max-width: 100%;
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
